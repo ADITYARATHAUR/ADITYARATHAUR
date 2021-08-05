@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ADITYARATHAUR
 - 👀 I’m interested in new technological advancements
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on beginner friendly projects. 
+- 💞️ I’m looking to collaborate in beginner friendly projects. 
 - 📫 How to reach me adityarathaur067@gmail.com
 
 <!---
